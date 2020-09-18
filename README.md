@@ -2,7 +2,7 @@
 Script para respaldar bases de datos mongodb y rotar los respaldos viejos.
 
 Instalacion
-clon de git https://github.com/fulvous/backup.git
+clon de git https://github.com/Mikunagmlp/backup.git
 
 Uso
 Uso: mongobackup [-f directorio_respaldo] [-d bases] [-o anterior_a] [-v]
